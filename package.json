@@ -1,0 +1,23 @@
+{
+  "name": "react-native-webviewautoheight",
+  "version": "3.1.3",
+  "description": "react-native-webviewautoheight react-native-webview-autoheight react-native-autoheight-webview react-native-autoheightwebview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenzhenjinma/react-native-webview-autoheight.git"
+  },
+  "keywords": [
+    "react-native-webview-autoheight",
+    "react-native-autoheight-webview"
+  ],
+  "author": "root@68xg.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenzhenjinma/react-native-webview-autoheight/issues"
+  },
+  "homepage": "https://github.com/shenzhenjinma/react-native-webview-autoheight#readme"
+}
